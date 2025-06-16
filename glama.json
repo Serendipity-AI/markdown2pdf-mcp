@@ -2,6 +2,6 @@ First, add glama.json to the root of your repository.
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
   "maintainers": [
-    "serendipity-ai"
+    "jimmarshall87"
   ]
 }
